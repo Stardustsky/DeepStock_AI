@@ -40,10 +40,11 @@ DeepStock是一个集市场分析、股票研究、资金流向追踪于一体�
 - **投资决策参考**：基于数据和AI分析制定投资策略
 - **市场趋势研究**：追踪资金流向和板块轮动规律
 
+访问 [http://www.deepstock.info](http://www.deepstock.info) 开始体验！
+
 ![站点主页](https://github.com/Stardustsky/DeepStock_AI/blob/main/main.jpg)
 
-
-访问 [http://www.deepstock.info](http://www.deepstock.info) 开始体验！
+![股票分析](https://github.com/Stardustsky/DeepStock_AI/blob/main/stock_analysis.jpg)
 
 
 > 免责声明：本项目仅供学习和研究使用，不构成任何投资建议。投资有风险，入市需谨慎。
