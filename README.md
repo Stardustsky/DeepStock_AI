@@ -42,6 +42,8 @@ DeepStock是一个集市场分析、股票研究、资金流向追踪于一体�
 
 访问 [http://www.deepstock.info](http://www.deepstock.info) 开始体验！
 
+交流可添加WX：stardust_hyx
+
 ![站点主页](https://github.com/Stardustsky/DeepStock_AI/blob/main/main.jpg)
 
 ![股票分析](https://github.com/Stardustsky/DeepStock_AI/blob/main/stock_analysis.jpg)
